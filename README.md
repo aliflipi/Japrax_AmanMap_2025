@@ -70,5 +70,10 @@ Data dalam aplikasi diperoleh dari:
 ---
 
 ## 📸 Screenshots
+![home](https://github.com/user-attachments/assets/44aa46f0-253a-4ac6-ab3f-b4667e5b3263)
+![Map](https://github.com/user-attachments/assets/88bcccc4-edbc-47bf-bd70-0452d3550ec2)
+![gmap](https://github.com/user-attachments/assets/c99205e2-8ef1-46d2-96c3-5bd5d8b6fca5)
+
+
 
 
